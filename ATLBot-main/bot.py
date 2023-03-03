@@ -36,4 +36,4 @@ async def on_member_join(miembro):
             await canal.send(embed=embed)
 
 
-client.run('MTA3NjkyNTU2NTM4ODQ3MjMyMA.G60A1J.qq5Ccuwc1IHqH1QMC0oxomhyJR3rYIIk_4UZE8')
+client.run('TOKEN DEL BOT, NO ES ESTE')
